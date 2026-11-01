@@ -4,7 +4,7 @@
 - **Nombre:** Chris Joseph Jean Carty
 - **Matrícula:** 2025-1965
 - **Asignatura:** Lógica de Programación
-- **Maestro:** Gamaliel Reyes
+- **Maestro:** Gamalier Reyes
 
 ## Descripción
 Solución en C++ al ejercicio propuesto en la presentación "Funciones y procedimiento". 
